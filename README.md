@@ -7,7 +7,7 @@
 
 ### 适用范围
 
-- **导出工具**：[NapCat-QCE-Windows-x64-v5.5.3](https://github.com/NapNeko/NapCatQQ)
+- **导出工具**：[NapCat-QCE-Windows-x64-v5.5.3](https://github.com/shuakami/qq-chat-exporter/releases/tag/v5.5.53)
 - **QQ版本**：QQ 9.9.26.44343 (x64)
 - **运行环境**：Windows 系统，需安装 Microsoft Edge 浏览器（用于PDF转换）
 
